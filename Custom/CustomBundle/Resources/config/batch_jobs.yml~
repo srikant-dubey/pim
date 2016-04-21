@@ -1,0 +1,9 @@
+connector:
+    name: Test Connector
+    jobs:
+         test_custom_connector:
+               title: test_custom_custom_connector
+               type: export
+               steps:
+                    export:
+                         service:	
