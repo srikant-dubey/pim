@@ -1,5 +1,0 @@
-parameters:
-    custom_custom.reader.file.custom.class: Custom\CustomBundle\Reader\File\CustomReader
-services:
-    custom_custom.reader.file.custom:
-       class: %custom_custom.reader.file.custom.class%
